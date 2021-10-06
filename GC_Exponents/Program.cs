@@ -19,28 +19,25 @@ namespace GC_Exponents
             //Main program loop
             while (continueProgram)
             {
-                //Validation loop
-                while (true)
+                //Getting input
+                string input = GetInput("\nPlease enter a number to start: ");
+                if (ValidateNum(input))
                 {
-                    //Getting input
-                    string input = GetInput("\nPlease enter a number to start: ");
-                    if (ValidateNum(input))
+                    //Checking Range
+                    if (ValidateRange(rangeMin, rangeMax, int.Parse(input)))
                     {
-                        //Checking Range
-                        if (ValidateRange(rangeMin, rangeMax, int.Parse(input)))
+                        //ENTER TABLE HERE
+                        Console.WriteLine("\n{0,-10} {1,15} {2,20}", "Number", "Squared", "Cubed");
+                        Console.WriteLine("{0,-10} {1,15} {2,20}", "______", "_______", "_____");
+                        for (int i = 1; i <= int.Parse(input); i++)
                         {
-                            //ENTER TABLE HERE
-                            Console.WriteLine("\n{0,-10} {1,15} {2,20}", "Number", "Squared", "Cubed");
-                            Console.WriteLine("{0,-10} {1,15} {2,20}", "______", "_______", "_____");
-                            for (int i = 1; i <= int.Parse(input); i++)
-                            {
-                                Console.WriteLine("{0,-18:n0} {1,-22:n0} {2:n0}", i, Math.Pow(i, 2), Math.Pow(i, 3));
-                            }
-                            //Checking continue
-                            continueProgram = UserContinue();
+                            Console.WriteLine("{0,-18:n0} {1,-22:n0} {2:n0}", i, Math.Pow(i, 2), Math.Pow(i, 3));
                         }
+                        //Checking continue
+                        continueProgram = UserContinue();
                     }
                 }
+
             }
         }
         public static string GetInput(string prompt)
@@ -93,12 +90,12 @@ namespace GC_Exponents
             }
             else if (input == "n")
             {
-                Console.WriteLine("Ending program...");
+                Console.WriteLine("\nEnding program...");
                 return false;
             }
             else
             {
-                Console.WriteLine("Invalid input...please enter y or n...");
+                Console.WriteLine("\nInvalid input...please enter y or n...");
                 return UserContinue();
             }
         }

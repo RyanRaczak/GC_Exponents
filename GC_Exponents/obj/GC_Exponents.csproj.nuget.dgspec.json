@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RRaczak\\source\\repos\\GC_Exponents\\GC_Exponents\\GC_Exponents.csproj": {}
+    "C:\\Users\\RRaczak\\source\\repos\\DevBuild\\GC_Exponents\\GC_Exponents\\GC_Exponents.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RRaczak\\source\\repos\\GC_Exponents\\GC_Exponents\\GC_Exponents.csproj": {
+    "C:\\Users\\RRaczak\\source\\repos\\DevBuild\\GC_Exponents\\GC_Exponents\\GC_Exponents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RRaczak\\source\\repos\\GC_Exponents\\GC_Exponents\\GC_Exponents.csproj",
+        "projectUniqueName": "C:\\Users\\RRaczak\\source\\repos\\DevBuild\\GC_Exponents\\GC_Exponents\\GC_Exponents.csproj",
         "projectName": "GC_Exponents",
-        "projectPath": "C:\\Users\\RRaczak\\source\\repos\\GC_Exponents\\GC_Exponents\\GC_Exponents.csproj",
+        "projectPath": "C:\\Users\\RRaczak\\source\\repos\\DevBuild\\GC_Exponents\\GC_Exponents\\GC_Exponents.csproj",
         "packagesPath": "C:\\Users\\RRaczak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RRaczak\\source\\repos\\GC_Exponents\\GC_Exponents\\obj\\",
+        "outputPath": "C:\\Users\\RRaczak\\source\\repos\\DevBuild\\GC_Exponents\\GC_Exponents\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RRaczak\\AppData\\Roaming\\NuGet\\NuGet.Config",

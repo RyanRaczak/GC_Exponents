@@ -12,3 +12,17 @@ C:\Users\RRaczak\source\repos\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\
 C:\Users\RRaczak\source\repos\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\GC_Exponents.dll
 C:\Users\RRaczak\source\repos\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\GC_Exponents.pdb
 C:\Users\RRaczak\source\repos\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\GC_Exponents.genruntimeconfig.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\bin\Debug\netcoreapp3.1\GC_Exponents.exe
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\bin\Debug\netcoreapp3.1\GC_Exponents.deps.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\bin\Debug\netcoreapp3.1\GC_Exponents.runtimeconfig.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\bin\Debug\netcoreapp3.1\GC_Exponents.runtimeconfig.dev.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\bin\Debug\netcoreapp3.1\GC_Exponents.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\bin\Debug\netcoreapp3.1\GC_Exponents.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\GC_Exponents.csproj.AssemblyReference.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\GC_Exponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\GC_Exponents.AssemblyInfoInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\GC_Exponents.AssemblyInfo.cs
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\GC_Exponents.csproj.CoreCompileInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\GC_Exponents.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\GC_Exponents.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_Exponents\GC_Exponents\obj\Debug\netcoreapp3.1\GC_Exponents.genruntimeconfig.cache
